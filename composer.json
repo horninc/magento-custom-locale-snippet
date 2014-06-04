@@ -1,0 +1,16 @@
+{
+    "name": "ideaspool/magento-custom-locale-snippet",
+    "type": "magento-module",
+    "license":"OSL-3.0",
+    "description":"Extra Locale snippet for Magento 1.8.1.0",
+    "homepage": "http://ideaspool.nl",
+    "authors":[
+        {
+            "name":"Kristaps Horns",
+            "email":"k.horns@ideaspool.nl"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
